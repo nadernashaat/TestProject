@@ -1,0 +1,14 @@
+C:\Users\amala\Desktop\TestProject\TestProject\bin\Debug\netcoreapp2.1\TestProject.deps.json
+C:\Users\amala\Desktop\TestProject\TestProject\bin\Debug\netcoreapp2.1\TestProject.runtimeconfig.json
+C:\Users\amala\Desktop\TestProject\TestProject\bin\Debug\netcoreapp2.1\TestProject.runtimeconfig.dev.json
+C:\Users\amala\Desktop\TestProject\TestProject\bin\Debug\netcoreapp2.1\TestProject.dll
+C:\Users\amala\Desktop\TestProject\TestProject\bin\Debug\netcoreapp2.1\TestProject.pdb
+C:\Users\amala\Desktop\TestProject\TestProject\obj\Debug\netcoreapp2.1\TestProject.csprojAssemblyReference.cache
+C:\Users\amala\Desktop\TestProject\TestProject\obj\Debug\netcoreapp2.1\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\amala\Desktop\TestProject\TestProject\obj\Debug\netcoreapp2.1\TestProject.RazorAssemblyInfo.cache
+C:\Users\amala\Desktop\TestProject\TestProject\obj\Debug\netcoreapp2.1\TestProject.RazorAssemblyInfo.cs
+C:\Users\amala\Desktop\TestProject\TestProject\obj\Debug\netcoreapp2.1\TestProject.AssemblyInfoInputs.cache
+C:\Users\amala\Desktop\TestProject\TestProject\obj\Debug\netcoreapp2.1\TestProject.AssemblyInfo.cs
+C:\Users\amala\Desktop\TestProject\TestProject\obj\Debug\netcoreapp2.1\TestProject.RazorTargetAssemblyInfo.cache
+C:\Users\amala\Desktop\TestProject\TestProject\obj\Debug\netcoreapp2.1\TestProject.dll
+C:\Users\amala\Desktop\TestProject\TestProject\obj\Debug\netcoreapp2.1\TestProject.pdb
