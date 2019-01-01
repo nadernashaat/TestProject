@@ -3,8 +3,8 @@ node {
       checkout scm
    }
    
-       stage('build and publish') {
-        sh(script: "dotnet publish TestProject.sln -c Release ", returnStdout: true)
+    stage('build and publish') {
+        bat(script: "dotnet publish TestProject.sln -c Release ", returnStdout: true)
     }
    stage('deploy') {
       azureWebAppPublish azureCredentialsId: env.AZURE_CRED_ID,
