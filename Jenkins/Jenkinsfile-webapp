@@ -4,7 +4,7 @@ node {
    }
    
     stage('build and publish') {
-        bat(script: "dotnet publish TestProject.sln -c Release ", returnStdout: true)
+        bat 'dotnet publish TestProject.sln -c Release'
     }
    stage('deploy') {
       azureWebAppPublish azureCredentialsId: env.AZURE_CRED_ID,
