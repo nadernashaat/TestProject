@@ -5,10 +5,10 @@ node {
    
     stage('build and publish') {
         bat 'dotnet publish TestProject.sln -c Release'
-		bat 'zip todo.zip bin\Release\netcoreapp2.1\publish\'
+		
     }
    stage('deploy') {
       azureWebAppPublish azureCredentialsId: env.AZURE_CRED_ID,
-      resourceGroup: env.RES_GROUP, appName: env.WEB_APP, filePath: "**/todo.zip"
+      resourceGroup: env.RES_GROUP, appName: env.WEB_APP, sourceDirectory: "bin\Release\netcoreapp2.1\publish\"
    }
 }
